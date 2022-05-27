@@ -1,2 +1,2 @@
-# DL1_GvD
-deep learning project
+# DL2_GvD
+Deep learning project. Using transfer learning and cnns
